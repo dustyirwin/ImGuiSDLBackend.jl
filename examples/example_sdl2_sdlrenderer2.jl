@@ -129,4 +129,3 @@ module Editor
     end
 end
 Editor.run()
-```
