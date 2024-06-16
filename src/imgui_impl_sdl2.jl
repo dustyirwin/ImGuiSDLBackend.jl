@@ -1,3 +1,4 @@
+
 #Reference: https://github.com/ocornut/imgui/blob/master/backends/imgui_impl_sdl2.cpp
 
 Base.@kwdef mutable struct ImGui_ImplSDL2_Data
